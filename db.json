@@ -1,9 +1,4 @@
 {
   "posts": [],
   "users": []
-  "login": {
-    "access_token": "123456"
-    "expires": 123456,
-    "refresh_token": "654321"
-  }
 }
