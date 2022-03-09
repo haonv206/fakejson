@@ -6,7 +6,7 @@
       "end_time": "2022-03-09T02:00:00",
       "subject": "Hop hoi dong co dong",
       "owner": "PHAN VIET THANG",
-      "room": "Victory"
+      "room": "Victory Meeting Room"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "end_time": "2022-03-09T02:30:00",
       "subject": "Abc",
       "owner": "PHAN VIET THANG",
-      "room": "Ho Chi Minh"
+      "room": "Ho Chi Minh Meeting Room"
     }
   ],
   "users": [
