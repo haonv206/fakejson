@@ -6,6 +6,15 @@
       "end_time": "2022-03-09T02:00:00",
       "subject": "Hop hoi dong co dong",
       "owner": "PHAN VIET THANG"
+      "room": "Victory"
+    },
+    {
+      "id": 2,
+      "start_time": "2022-03-09T02:00:00",
+      "end_time": "2022-03-09T02:30:00",
+      "subject": "Abc",
+      "owner": "PHAN VIET THANG"
+      "room": "Ho Chi Minh"
     }
   ],
   "users": [
