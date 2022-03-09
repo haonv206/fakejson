@@ -6,7 +6,7 @@
       "end_time": "2022-03-09T02:00:00",
       "subject": "Hop hoi dong co dong",
       "owner": "PHAN VIET THANG",
-      "room": "Victory Meeting Room"
+      "room": "Victory"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "end_time": "2022-03-09T02:30:00",
       "subject": "Abc",
       "owner": "PHAN VIET THANG",
-      "room": "Ho Chi Minh Meeting Room"
+      "room": "Ho Chi Minh"
     }
   ],
   "users": [
@@ -22,5 +22,23 @@
       "id": 1, 
       "username": "admin",
       "password": "admin"}
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Lê Đăng Dũng",
+      "email": "dungld@viettel.com.vn",
+      "phone": "0334727312",
+      "position": "Thủ trưởng đơn vị",
+      "department": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
+    },
+    {
+      "id": 2,
+      "name": "Tào Đức Thắng",
+      "email": "thangtd@viettel.com.vn",
+      "phone": "0985688699",
+      "position": "Tổng GĐ Tập đoàn",
+      "department": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
+    }
   ]
 }
