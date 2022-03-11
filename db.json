@@ -25,20 +25,94 @@
   ],
   "contacts": [
     {
-      "id": 1,
-      "name": "Lê Đăng Dũng",
+      "id": 1111,
+      "loginName": "111111",
+      "fullName": "Lê Đăng Dũng",
       "email": "dungld@viettel.com.vn",
-      "phone": "0334727312",
+      "mobile": "0334727312",
+      "sex": 1,
       "position": "Thủ trưởng đơn vị",
-      "department": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
+      "groupName": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
     },
     {
-      "id": 2,
-      "name": "Tào Đức Thắng",
+      "id": 222222,
+      "loginName": "222222",
+      "fullName": "Tào Đức Thắng",
       "email": "thangtd@viettel.com.vn",
-      "phone": "0985688699",
+      "mobile": "0985688699",
+      "sex": 1,
       "position": "Tổng GĐ Tập đoàn",
-      "department": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
-    }
+      "groupName": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
+    },
+    {
+      "id": 333333,
+      "loginName": "333333",
+      "fullName": "Nguyễn Công Toàn",
+      "email": "toannc@nms.com.vn",
+      "mobile": "0902341102",
+      "sex": 1,
+      "position": "Tổng GĐ",
+      "groupName": "BGĐ Tập đoàn - Khối cơ quan Tập đoàn"
+    },
+    {
+      "id": 444444,
+      "loginName": "444444",
+      "fullName": "Đinh Ngọc Cường",
+      "email": "cuongdn@nms.com.vn",
+      "mobile": "0985688699",
+      "sex": 1,
+      "position": "GĐ Dự Án",
+      "groupName": "Khối cơ quan Tập đoàn"
+    },
+    {
+      "id": 555555,
+      "loginName": "555555",
+      "fullName": "Trịnh Thị  Ngọc Lan",
+      "email": "cuongdn@nms.com.vn",
+      "mobile": "0925718669",
+      "sex": 1,
+      "position": "GĐ Dự Án",
+      "groupName": "Khối cơ quan Tập đoàn"
+    },
+    {
+      "id": 666666,
+      "loginName": "666666",
+      "fullName": "Phùng Thị Thu Quỳnh",
+      "email": "quynhptt@nms.com.vn",
+      "mobile": "0866199602",
+      "sex": 0,
+      "position": "Tester",
+      "groupName": "Team Nhật"
+    },
+    {
+      "id": 666666,
+      "loginName": "666666",
+      "fullName": "Lê Huỳnh Đức",
+      "email": "ducln@nms.com.vn",
+      "mobile": "0965199636",
+      "sex": 1,
+      "position": "Dev",
+      "groupName": "Team Nhật"
+    },
+    {
+      "id": 777777,
+      "loginName": "777777",
+      "fullName": "Vũ Thị Ngọc Hằng",
+      "email": "hangvtn@nms.com.vn",
+      "mobile": "0123456789",
+      "sex": 1,
+      "position": "Dev",
+      "groupName": "Team Nhật"
+    },
+    {
+      "id": 888888,
+      "loginName": "888888",
+      "fullName": "Nguyễn Văn Hảo",
+      "email": "haonv@nms.com.vn",
+      "mobile": "0918272810",
+      "sex": 1,
+      "position": "Dev",
+      "groupName": "Team Nhật"
+    },
   ]
 }
