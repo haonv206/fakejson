@@ -25,7 +25,7 @@
   ],
   "contacts": [
     {
-      "id": 1111,
+      "id": 111111,
       "loginName": "111111",
       "fullName": "Lê Đăng Dũng",
       "email": "dungld@viettel.com.vn",
@@ -91,19 +91,19 @@
       "activate": 1
     },
     {
-      "id": 666666,
-      "loginName": "666666",
-      "fullName": "Lê Huỳnh Đức",
-      "email": "ducln@nms.com.vn",
-      "mobile": "0965199636",
+      "id": 777777,
+      "loginName": "777777",
+      "fullName": "Sơn NMS",
+      "email": "sonnms@nms.com.vn",
+      "mobile": "0859912715",
       "sex": 1,
       "position": "Dev",
       "groupName": "Team Nhật",
-      "activate": 1
+      "activate": 0
     },
     {
-      "id": 777777,
-      "loginName": "777777",
+      "id": 888888,
+      "loginName": "888888",
       "fullName": "Vũ Thị Ngọc Hằng",
       "email": "hangvtn@nms.com.vn",
       "mobile": "0123456789",
@@ -113,27 +113,27 @@
       "activate": 1
     },
     {
-      "id": 888888,
-      "loginName": "888888",
+      "id": 999999,
+      "loginName": "999999",
       "fullName": "Nguyễn Văn Hảo",
       "email": "haonv@nms.com.vn",
       "mobile": "0918272810",
       "sex": 1,
       "position": "Dev",
       "groupName": "Team Nhật",
-      "birthDay": "20/06/1983"
+      "birthDay": "20/06/1983",
       "activate": 1
     },
     {
-      "id": 999999,
-      "loginName": "999999",
-      "fullName": "Sơn NMS",
-      "email": "sonnms@nms.com.vn",
-      "mobile": "0859912715",
+      "id": 101010,
+      "loginName": "101010",
+      "fullName": "Lê Huỳnh Đức",
+      "email": "ducln@nms.com.vn",
+      "mobile": "0965199636",
       "sex": 1,
       "position": "Dev",
       "groupName": "Team Nhật",
-      "activate": 0
-    },
+      "activate": 1
+    }
   ]
 }
